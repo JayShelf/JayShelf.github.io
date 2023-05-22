@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JayShelf Blog</title>
+    <link>http://JayShelf.github.io/</link>
+    <description>Recent content on JayShelf Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>tanzhilang031@gmail.com (JayShelf)</managingEditor>
+    <webMaster>tanzhilang031@gmail.com (JayShelf)</webMaster>
+    <lastBuildDate>Tue, 23 May 2023 03:39:51 +0800</lastBuildDate><atom:link href="http://JayShelf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://JayShelf.github.io/posts/first_post/</link>
+      <pubDate>Tue, 23 May 2023 03:39:51 +0800</pubDate>
+      <author>tanzhilang031@gmail.com (JayShelf)</author>
+      <guid>http://JayShelf.github.io/posts/first_post/</guid>
+      <description>但在今天，随着越来越多的人侵占蝙蝠栖息地，他们正在不知不觉地帮助蝙蝠传播病毒并感染其他物种。世界卫生组织解除新冠肺炎的全球公共卫生紧急状态，</description>
+    </item>
+    
+  </channel>
+</rss>
